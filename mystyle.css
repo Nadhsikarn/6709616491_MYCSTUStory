@@ -1,4 +1,4 @@
-body {
+.Homepage {
     background-color: #aedcae;
     background-image: url(resources/bg3.jpg);
     background-repeat: no-repeat;
@@ -11,7 +11,7 @@ body {
     font-family: "Bungee Spice", sans-serif;
     font-weight: 400;
     font-style: normal;
-    font-size: xx-large;
+    font-size: x-large;
     
 }
 .head2 {
@@ -38,7 +38,6 @@ body {
 .animepic{
     font-family: "Pixelify Sans", sans-serif;
     font-size: x-large;
-    
 }
 .Haikyuu {
     margin-top: 60px;
@@ -71,4 +70,21 @@ body {
     font-family: "Pixelify Sans", sans-serif;
     font-size: x-large;
     color: #622F22;
+}
+nav a {
+    margin-right: 40px;
+    text-decoration: none;
+    font-size: 40px;
+    font-family: "Pixelify Sans", sans-serif;
+    color: #069109;
+    font-weight: bold;
+}
+nav a:hover {
+    color: #000;
+}
+.myjourney {
+
+}
+.myfuture {
+    
 }
