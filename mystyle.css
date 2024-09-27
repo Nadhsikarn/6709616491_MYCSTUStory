@@ -1,0 +1,74 @@
+body {
+    background-color: #aedcae;
+    background-image: url(resources/bg3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.heading {
+    
+    text-align: center;
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: xx-large;
+    
+}
+.head2 {
+    font-family: "Pixelify Sans", sans-serif;
+    text-align: center;
+    margin-top: 60px;
+    font-size: x-large;
+    color: #C34A2C; 
+}
+.information {
+    font-family: "Pixelify Sans", sans-serif;
+    font-style: normal;
+    font-size: larger;
+    margin-top: 40px;
+    color: #C34A2C;
+}
+.Favanime {
+    margin-top: 80px;
+    font-family: "Pixelify Sans", sans-serif;
+    font-size: x-large;
+    text-align: center;
+    color: #9E4638;
+}
+.animepic{
+    font-family: "Pixelify Sans", sans-serif;
+    font-size: x-large;
+    
+}
+.Haikyuu {
+    margin-top: 60px;
+    text-align: center;
+    color: #E56717;
+}
+.Kuroko {
+    margin-top: 60px;
+    text-align: center;
+    color: #045F5F;
+}
+.Spyfam{
+    margin-top: 60px;
+    text-align: center;
+    color: #F98B88;
+}
+.Windb{
+    margin-top: 60px;
+    text-align: center;
+    color: #004225;
+}
+.baseball{
+    margin-top: 60px;
+    text-align: center;
+    color: #872657;
+}
+.Educationhead {
+    margin-top: 60px;
+    text-align: center;
+    font-family: "Pixelify Sans", sans-serif;
+    font-size: x-large;
+    color: #622F22;
+}
