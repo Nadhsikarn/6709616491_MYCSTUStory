@@ -169,3 +169,11 @@ nav a:hover {
 .pic {
     border-radius: 15px;
 }
+footer {
+    margin-top: 70px;
+    background-color: #ffe066;
+    opacity: 50%;
+    text-align: center;
+    clear: both;
+    font-family: "Acme", sans-serif;
+}
