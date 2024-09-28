@@ -166,3 +166,6 @@ nav a:hover {
     margin-left: 80px;
     margin-right: 80px;
 }
+.pic {
+    border-radius: 15px;
+}
