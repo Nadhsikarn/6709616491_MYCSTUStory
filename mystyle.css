@@ -6,13 +6,11 @@
     background-attachment: fixed;
 }
 .heading {
-    
     text-align: center;
     font-family: "Bungee Spice", sans-serif;
     font-weight: 400;
     font-style: normal;
     font-size: x-large;
-    
 }
 .head2 {
     font-family: "Pixelify Sans", sans-serif;
@@ -83,8 +81,42 @@ nav a:hover {
     color: #000;
 }
 .myjourney {
-
+    background-image: url(resources/bg1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
 }
 .myfuture {
-    
+    background-image: url(resources/bg4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.year1 {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 30px;
+}
+.year2 {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 30px;
+}
+.year3 {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 30px;
+}
+.year4 {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    padding: 30px;
 }
